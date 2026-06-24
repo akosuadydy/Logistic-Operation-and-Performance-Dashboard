@@ -28,7 +28,7 @@ Country: United States of America
 * Revenue by Month – tracks monthly performance trends
 * Revenue Generating City– highlights top-performing cities
 * Revenue by Booking Type – compares booking channel performance
-* elivery by Customer Type– analyzes delivery patterns by customer segment
+* Delivery by Customer Type– analyzes delivery patterns by customer segment
 
 ## Tools & Skills Used
 
