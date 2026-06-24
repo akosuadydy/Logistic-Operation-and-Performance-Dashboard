@@ -42,8 +42,7 @@ Country: United States of America
 
 ## Files in This Repository
 
-* `Logistics Operation and Performance Dashboard.pbix` – Power BI dashboard file
-* `logistics-dashboard.png` – dashboard preview image
+* Screenshot 2026-06-05-214226.png` – dashboard preview image
 * `README.md` – project documentation
 
 
